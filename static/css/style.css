@@ -4,7 +4,7 @@
 
 .jumbotron-fluid
 {
-    background: url("../img/kitchen.jpg");
+    background: url("../static/img/kitchen.jpg");
     background-position:center;
 }
 
@@ -18,49 +18,49 @@
 
 #crab-cake
 {
-    background: url("../img/crabcake.jpg");
+    background: url("../static/img/crabcake.jpg");
     background-position:center;
 	font-size: 14pt;
 }
 
 #wings
 {
-    background: url("../img/wings.jpg");
+    background: url("../static/img/wings.jpg");
     background-position:center;
 	font-size: 14pt;
 }
 
 #wings
 {
-    background: url("../img/wings.jpg");
+    background: url("../static/img/wings.jpg");
     background-position:center;
 	font-size: 14pt;
 }
 
 #gimbap
 {
-    background: url("../img/gimbap.jpg");
+    background: url("../static/img/gimbap.jpg");
     background-position:center;
 	font-size: 14pt;
 }
 
 #pumpkin-rice-noodles
 {
-    background: url("../img/pumpkin_rice_noodles.jpg");
+    background: url("../static/img/pumpkin_rice_noodles.jpg");
     background-position:center;
 	font-size: 14pt;
 }
 
 #egg-sauce
 {
-    background: url("../img/egg_sauce.jpg");
+    background: url("../static/img/egg_sauce.jpg");
     background-position:center;
 	font-size: 14pt;
 }
 
 #injera
 {
-    background: url("../img/injera.jpg");
+    background: url("../static/img/injera.jpg");
     background-position:center;
 	font-size: 14pt;
 }
